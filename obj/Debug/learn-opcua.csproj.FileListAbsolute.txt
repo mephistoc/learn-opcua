@@ -1,0 +1,2 @@
+C:\src\learn-opcua\learn-opcua\bin\Debug\learn-opcua.exe.config
+C:\src\learn-opcua\bin\Debug\learn-opcua.exe.config
